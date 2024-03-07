@@ -1,6 +1,6 @@
 ### Hey, I'm Jens! 👋
 
-After working professionally with music (playing :saxophone:) for 15 years, combined with web development as a sideline job, I turned the two around. Nowadays I'm working as a frontend developer and combine this with music. 
+After working professionally playing the saxophone :saxophone: for 15 years, combined with web development as a sideline job, I turned the two around. Nowadays I'm working as a frontend developer and combine this with music. 
 
 Built my first website back in ‘96 and have been constantly evolving ever since. I like solving problems, preferably while listening to jazz, and I always have a smile close at hand.
 
