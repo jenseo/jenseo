@@ -4,7 +4,7 @@ After working professionally playing the saxophone :saxophone: for 15 years, com
 
 Built my first website back in ‘96 and have been constantly evolving ever since. I like solving problems, preferably while listening to jazz, and I always have a smile close at hand.
 
-More here -> [https://silentmountain.dev](https://silentmountain.dev)
+**Read more** -> [https://silentmountain.dev](https://silentmountain.dev)
 
 <!--
 **jenseo/jenseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
